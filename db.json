@@ -1,0 +1,31 @@
+{
+  "uploadVideos": [
+    {
+      "id": "44a6",
+      "caption": "dfgf",
+      "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg1MndL-Xp1JcnqaB0YOqTp6zDjrwYyGKsPA&s",
+      "youtubeLink": "https://www.youtube.com/embed/LDB4uaJ87e0"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ba18",
+      "categoryName": "bajajs",
+      "allVideos": []
+    }
+  ],
+  "history": [
+    {
+      "id": "208f",
+      "caption": "dfgf",
+      "youtubeLink": "https://www.youtube.com/embed/LDB4uaJ87e0",
+      "timeStamp": "11/7/2024, 3:08:09 AM GMT+5:30"
+    },
+    {
+      "caption": "dfgf",
+      "youtubeLink": "https://www.youtube.com/embed/LDB4uaJ87e0",
+      "timeStamp": "11/7/2024, 9:19:19 AM GMT+5:30",
+      "id": "qNFBcDk"
+    }
+  ]
+}
